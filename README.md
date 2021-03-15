@@ -26,9 +26,7 @@ $ bash setup.sh
 $ python kontol.py
 ```
 
-### Screenshot
+### Kontol
 * Note! Bila akun cekpoint, tunggu 7 hari, otomatis kebuka sendiri, hanya beberapa akun tidak semua bisa.
-
-
 
 * Notice Me : lagi belajar gue kontol
